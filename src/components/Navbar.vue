@@ -6,12 +6,7 @@
         <span class="white--text">Point Configuration</span>
       </v-toolbar-title>
       <v-spacer></v-spacer>
-      <!-- <v-btn icon class="white--text">
-        <v-icon>mdi-apps</v-icon>
-      </v-btn> -->
-       <!-- <v-btn icon class="white--text" router-link to="/">
-        <v-icon>mdi-logout</v-icon>
-      </v-btn> -->
+     
     </v-app-bar>
      <v-navigation-drawer app clipped-left v-model="drawer" color="#ffffff">     
           <v-layout column align-center>
